@@ -35,7 +35,7 @@ export default function MainPage({ ...rest }) {
         <div>
             <Header
                 color='transparent'
-                brand='Dano Colombo'
+                brand='Fortson Guru'
                 // links={<HeaderLinks dropdownHoverColor="info" />}
                 fixed
                 changeColorOnScroll={{
